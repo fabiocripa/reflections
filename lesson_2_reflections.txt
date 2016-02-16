@@ -1,0 +1,8 @@
+
+
+Q: What happens when you initialize a repository? Why do you need to do it?
+A dot git file is created. This file is used to store all the metadata of the others files and their versions
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is used to stores temporarily the files that will be committed. Is very useful to organize the work of commit
+
