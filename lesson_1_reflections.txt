@@ -1,0 +1,31 @@
+Q:How did viewing a diff between two versions of a file help you see the bug that was introduced?
+It is possible to compare all the differences line by line. This is very helpful and fast
+
+Q:How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Analysing the entire history I can avoid lost work in some work pathways that will drive my to dead ends or errors
+
+Q:What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, versus having versions automatically saved, like Google Docs does?
+The filter of create a restores point is something a little bit subjective and depends more on logical and information construction that simply time of work. 
+This way is better to create steps of construction.
+
+Q:Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+When you are working in a multiple related files project, it is very useful to have a proper way to control the changes between the files version.
+
+Q:How can you use the commands git log and git diff to view the history of files?
+Git log shows me all the commit history of the file including the comments. The git diff shows me the differences between 2 commits
+
+Q:How might using version control make you more confident to make changes that could break something?
+Using version control I can reverse any change without loss any work 
+
+Q:Now that you have your workspace set up, what do you want to try using Git for?
+I will use Git to control the versions of my working files
+
+708bcce690e5faa5739bd471507c102ea16b77f7
+547f4171a82ec6429d002c1acef357aec41d3f17
+71d52709ddc4066e7a79a1d0a412e43429a0cdeb ok
+fa4c6bade4970c282b3870ad16f1bde8164663a9
+
+commit 003c8c197cd3b1e5b28b58f53ee14d7ebaa9bb3a speeding clones up
+746f762e38b5bbb7d0b837464ef6ec3f8ee5bf91
+
+
